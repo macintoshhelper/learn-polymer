@@ -1,0 +1,26 @@
+{
+  "name": "learn-polymer",
+  "version": "1.0.0",
+  "description": "Repo for learning Polymer Project - Web Components, PWA, etc. READMEs and code snippets.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/macintoshhelper/learn-polymer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/macintoshhelper/learn-polymer/issues"
+  },
+  "homepage": "https://github.com/macintoshhelper/learn-polymer#readme",
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "eslint-config-airbnb": "^14.1.0",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^4.0.0",
+    "eslint-plugin-react": "^6.10.3"
+  }
+}
